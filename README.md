@@ -1,73 +1,97 @@
-# Welcome to your Lovable project
+# 🎓 Smart Learning Portal
 
-## Project info
+A web-based learning and assessment platform developed for college students and administrators.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 📌 Project Overview
 
-There are several ways of editing your application.
+The Smart Learning Portal is designed to provide a centralized system for academic content delivery and evaluation within a college environment.
 
-**Use Lovable**
+It enables:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- 👨‍🎓 Students to access learning materials and assessments
+- 📝 Online quizzes and evaluations
+- 📊 Performance tracking
+- 🛡️ Admin management of students and content
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Technologies Used
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Vite
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn-ui
+- Firebase Authentication
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🚀 How to Run the Project Locally
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+Make sure Node.js and npm are installed.
+
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate to project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The application will run at:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
+http://localhost:5173
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🔐 Features
 
-## What technologies are used for this project?
+### 👨‍🎓 Student
+- Secure Login / Signup
+- Dashboard access
+- View study materials
+- Take assessments
 
-This project is built with:
+### 🛡️ Admin
+- Secure Login
+- Manage students
+- Manage assessments
+- Monitor performance
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🌐 Deployment
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+The project can be deployed using:
+- Firebase Hosting
+- Vercel
+- Netlify
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 🎯 Future Enhancements
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+- Role-based route protection
+- Real-time database integration
+- Results analytics dashboard
+- File upload for study materials
+- Email notifications
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+
+## 👨‍💻 Developed By
+
+Your Name  
+Department of Computer Science  
+Your College Name  
+Academic Year: 2025–2026
