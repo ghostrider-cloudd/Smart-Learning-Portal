@@ -89,9 +89,4 @@ The project can be deployed using:
 
 ---
 
-## 👨‍💻 Developed By
-
-Your Name  
-Department of Computer Science  
-Your College Name  
-Academic Year: 2025–2026
+## 👨‍💻 Developed By : Still Under Development
